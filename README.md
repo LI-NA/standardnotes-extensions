@@ -1,6 +1,6 @@
 # Standard Notes Extensions
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/25256400-19de-4a55-a026-3d8ced3bf9b7/deploy-status)](https://app.netlify.com/sites/standardnotes-extensions/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb399188-6f8e-4ff2-8cd4-8bdc29b74b6a/deploy-status)](https://app.netlify.com/sites/kuroneko-note-ext/deploys)
 
 ## Features
 
